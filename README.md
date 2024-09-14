@@ -9,7 +9,7 @@ I am currenlty developing and experimenting with various software and electronic
 
 Here are a few of my main electronics projects that I'm currently working on:
 
-- **Disturbance-Free Calling**: [GitHub Repository](https://github.com/ImSeanConroy/webex-status-light)
+- **Disturbance-Free Calling**: Minimising disturbances to enable productive remote work - [GitHub Repository](https://github.com/ImSeanConroy/webex-status-light)
 - **Custom ESP32**: [GitHub Repository](https://github.com/ImSeanConroy/custom-esp32)
 
 </details>
@@ -20,7 +20,7 @@ Here are a few of my main electronics projects that I'm currently working on:
 
 Here are some general software projects I've worked on recently:
 
-- **Website Blocking Chrome Extension**: [GitHub Repository](https://github.com/ImSeanConroy/website-blocker-extension)
+- **BlockList**: Block Websites & Stay Focused - [GitHub Repository](https://github.com/ImSeanConroy/blocklist-chrome-extension)
 
 </details>
 
@@ -30,8 +30,8 @@ Here are some general software projects I've worked on recently:
 
 Here is selection of Infrastructure as Code (IaC) and CI/CD projects I've been working on:
 
-- **Custom Terraform Provider**: [GitHub Repository](https://github.com/ImSeanConroy/terraform-provider-custom)
-- **Go Client**: [GitHub Repository](https://github.com/ImSeanConroy/go-client)
+- **Custom Terraform Provider** - [GitHub Repository](https://github.com/ImSeanConroy/terraform-provider-custom)
+- **Go Client** - [GitHub Repository](https://github.com/ImSeanConroy/go-client)
 
 </details>
 
