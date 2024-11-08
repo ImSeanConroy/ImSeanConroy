@@ -9,7 +9,7 @@ I am currenlty developing and experimenting with various software and electronic
 
 Here are a few of my main electronics projects that I'm currently working on:
 
-- **Disturbance-Free Calling**: Minimising disturbances to enable productive remote work - [GitHub Repository](https://github.com/ImSeanConroy/webex-status-light)
+- **Macro Keyboard**: [GitHub Repository](https://github.com/ImSeanConroy/custom-esp32)
 - **Custom ESP32**: [GitHub Repository](https://github.com/ImSeanConroy/custom-esp32)
 
 </details>
@@ -21,6 +21,7 @@ Here are a few of my main electronics projects that I'm currently working on:
 Here are some general software projects I've worked on recently:
 
 - **BlockList**: Block Websites & Stay Focused - [GitHub Repository](https://github.com/ImSeanConroy/blocklist-chrome-extension)
+- **Sudoku Cracker**: Let your Sudoku puzzles be solved using brute-force - [GitHub Repository](https://github.com/ImSeanConroy/sudoku-cracker)
 
 </details>
 
@@ -41,7 +42,7 @@ Here is selection of Infrastructure as Code (IaC) and CI/CD projects I've been w
 
 You can reach out to me or check out my work through the following platforms:
 
-- **Portfolio**: [imseanconroy.co.uk](https://www.imseanconroy.co.uk)
+<!-- - **Portfolio**: [imseanconroy.co.uk](https://www.imseanconroy.co.uk) -->
 - **Twitter**: [@imseanconroy](https://www.twitter.com/imseanconroy)
 - **LinkedIn**: [linkedin.com/in/imseanconroy](https://www.linkedin.com/in/imseanconroy/)
 
