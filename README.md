@@ -9,8 +9,8 @@ I am currenlty developing and experimenting with various software and electronic
 
 Here are a few of my main electronics projects that I'm currently working on:
 
-- **Macro Keyboard**: [GitHub Repository](https://github.com/ImSeanConroy/custom-esp32)
-- **Custom ESP32**: [GitHub Repository](https://github.com/ImSeanConroy/custom-esp32)
+- **[Macro Keyboard](https://github.com/ImSeanConroy/custom-esp32)**: Minimal Layout, Maximum Efficiency.
+- **[Custom ESP32](https://github.com/ImSeanConroy/macro-keyboard)**: Custom ESP32 based Micro controller.
 
 </details>
 
@@ -20,8 +20,9 @@ Here are a few of my main electronics projects that I'm currently working on:
 
 Here are some general software projects I've worked on recently:
 
-- **BlockList**: Block Websites & Stay Focused - [GitHub Repository](https://github.com/ImSeanConroy/blocklist-chrome-extension)
-- **Sudoku Cracker**: Let your Sudoku puzzles be solved using brute-force - [GitHub Repository](https://github.com/ImSeanConroy/sudoku-cracker)
+- **[Relay](https://github.com/ImSeanConroy/relay)**: Full-stack Messaging Application built using the PERN Stack
+- **[Sudoku Cracker](https://github.com/ImSeanConroy/sudoku-cracker)**: Let your Sudoku Puzzles be Solved with Brute Force.
+- **[BlockList](https://github.com/ImSeanConroy/blocklist-chrome-extension)**: Block Websites & Stay Focused.
 
 </details>
 
@@ -31,8 +32,8 @@ Here are some general software projects I've worked on recently:
 
 Here is selection of Infrastructure as Code (IaC) and CI/CD projects I've been working on:
 
-- **Custom Terraform Provider** - [GitHub Repository](https://github.com/ImSeanConroy/terraform-provider-custom)
-- **Go Client** - [GitHub Repository](https://github.com/ImSeanConroy/go-client)
+- **[Custom Terraform Provider](https://github.com/ImSeanConroy/terraform-provider-custom)**: Custom Terraform provider for a Custom API.
+- **[Go Client](https://github.com/ImSeanConroy/go-client)**: Go Client Library for Custom Terraform Provider.
 
 </details>
 
