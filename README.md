@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sean Conroy, a Junior Software Engineer at Cisco based in Manchester, United Kingdom. <br>
+I'm Sean Conroy, a Software Engineer at Cisco based in Manchester, United Kingdom.<br>
 I am currenlty developing and experimenting with various software and electronics projects.
 
 <details>
@@ -9,8 +9,9 @@ I am currenlty developing and experimenting with various software and electronic
 
 Here are a few of my main electronics projects that I'm currently working on:
 
-- **[Macro Keyboard](https://github.com/ImSeanConroy/custom-esp32)**: Minimal Layout, Maximum Efficiency.
-- **[Custom ESP32](https://github.com/ImSeanConroy/macro-keyboard)**: Custom ESP32 based Micro controller.
+- **[Disturbance Free Calling](https://github.com/ImSeanConroy/disturbance-free-calling)**: Minimising disturbances to enable productive remote work.
+- **[Macro Keyboard](https://github.com/ImSeanConroy/macro-keyboard)**: Minimal Layout, Maximum Efficiency.
+- **[Custom ESP32](https://github.com/ImSeanConroy/custom-esp32)**: Custom ESP32 based Micro controller.
 
 </details>
 
