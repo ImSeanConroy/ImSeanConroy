@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Sean Conroy, a Software Engineer at Cisco, based in Manchester, United Kingdom.
+I'm Sean Conroy, a Software Engineer, Currently backpacking and surfing somewhere in the world.
 I’m currently exploring and building a variety of software and electronics projects — from productivity tools to embedded systems.
 
 Here are a few projects I've been working on recently:
